@@ -1,8 +1,12 @@
-
+body{
+       margin:0;
+}
 header{ 
        background-color:black;
        color:white;
-       padding:16px;
+       padding:20px;
+       margin:0;
+       
   
 }
 h1{
